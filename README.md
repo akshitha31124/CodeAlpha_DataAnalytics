@@ -40,3 +40,5 @@ This project demonstrates how Exploratory Data Analysis helps uncover patterns a
 
 ## Internship
 CodeAlpha Data Analytics Internship
+# CodeAlpha_DataAnalytics
+Data Analytics internship projects completed as part of the CodeAlpha Internship Program.
