@@ -1,44 +1,95 @@
-# Netflix Exploratory Data Analysis
+# 📊 CodeAlpha Data Analytics Internship
 
-## Project Description
-This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and TV Shows dataset.
+This repository contains my completed projects for the **CodeAlpha Data Analytics Internship**.
 
-## Objective
-- Understand the dataset
-- Clean missing values
-- Analyze the data
-- Create visualizations
-- Generate business insights
+---
 
-## Tools and Libraries
+# 📁 Repository Structure
+
+```
+CodeAlpha_DataAnalytics/
+│
+├── Task2_EDA
+├── Task3_DataVisualization
+├── Task4_SentimentAnalysis
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+---
+
+## ✅ Task 2 - Exploratory Data Analysis (EDA)
+
+### Objective
+Perform Exploratory Data Analysis (EDA) on the Netflix Titles dataset.
+
+### Tools Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
 
-## Dataset
-Netflix Movies and TV Shows Dataset
+### Key Work
+- Data Cleaning
+- Missing Value Analysis
+- Exploratory Data Analysis
+- Business Insights
 
-## Visualizations
+---
+
+## ✅ Task 3 - Data Visualization
+
+### Objective
+Create meaningful visualizations using the Netflix dataset.
+
+### Visualizations
 - Movies vs TV Shows
-- Top 10 Countries
+- Top Countries
 - Content Ratings
 - Release Year Distribution
-- Top 10 Genres
+- Top Genres
+- Top Directors
+- Movie Duration Distribution
+- Missing Values Heatmap
 
-## Business Insights
-- Netflix has more Movies than TV Shows.
-- The United States contributes the highest number of titles.
-- TV-MA is the most common content rating.
-- Netflix content increased significantly after 2015.
-- International Movies and Dramas are among the most popular genres.
+---
 
-## Conclusion
-This project demonstrates how Exploratory Data Analysis helps uncover patterns and trends in large datasets, enabling better business decision-making.
+## ✅ Task 4 - Sentiment Analysis
 
-## Internship
-CodeAlpha Data Analytics Internship
-# CodeAlpha_DataAnalytics
-Data Analytics internship projects completed as part of the CodeAlpha Internship Program.
+### Objective
+Analyze customer reviews using Natural Language Processing (NLP).
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- TextBlob
+
+### Features
+- Positive / Negative / Neutral Classification
+- Rating Distribution
+- Recommendation Analysis
+- Business Insights
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- TextBlob
+- Jupyter Notebook
+
+---
+
+## 👩‍💻 Author
+
+**Burra Akshitha**
+
+CodeAlpha Data Analytics Intern
